@@ -2,7 +2,6 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/copyleftdev/randexc)](https://goreportcard.com/report/github.com/copyleftdev/randexc)
 [![GoDoc](https://godoc.org/github.com/copyleftdev/randexc?status.svg)](https://godoc.org/github.com/copyleftdev/randexc)
-[![Build Status](https://github.com/copyleftdev/randexc/workflows/Go/badge.svg)](https://github.com/copyleftdev/randexc/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 `randexc` is a powerful and flexible Go library for executing actions at random times within a specified duration. It provides both synchronous and asynchronous execution options, making it suitable for a wide range of applications including load testing, simulating real-world events, and implementing sophisticated retry mechanisms.
